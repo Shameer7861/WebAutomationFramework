@@ -12,7 +12,7 @@ import java.util.zip.ZipOutputStream
 
 /** 
  * Send the report through email
- * @author mketheeswaran
+ * @author 
  */
 class CompressFolderZip {
 
